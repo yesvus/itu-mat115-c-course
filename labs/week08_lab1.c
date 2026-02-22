@@ -1,5 +1,5 @@
 /**
- * @file w8_lab1.c
+ * @file week08_lab1.c
  * @author Yusuf Emir Samsa
  * @brief W8 Lab1
  * @date 2026-02-22

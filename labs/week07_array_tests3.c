@@ -1,5 +1,5 @@
 /**
- * @file array_tests3_w7.c
+ * @file week07_array_tests3.c
  * @author Yusuf Emir Samsa
  * @brief Array Tests3 W7
  * @date 2026-02-22

@@ -1,5 +1,5 @@
 /**
- * @file w4_lab1.c
+ * @file week04_lab1.c
  * @author Yusuf Emir Samsa
  * @brief W4 Lab1
  * @date 2026-02-22

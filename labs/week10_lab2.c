@@ -1,5 +1,5 @@
 /**
- * @file w10_2.c
+ * @file week10_lab2.c
  * @author Yusuf Emir Samsa
  * @brief W10 2
  * @date 2026-02-22

@@ -1,5 +1,5 @@
 /**
- * @file w11_lab2_encryption.c
+ * @file week11_lab2_encryption.c
  * @author Yusuf Emir Samsa
  * @brief W11 Lab2 Encryption
  * @date 2026-02-22

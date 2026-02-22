@@ -1,5 +1,5 @@
 /**
- * @file w5_test.c
+ * @file week05_tests.c
  * @author Yusuf Emir Samsa
  * @brief W5 Test
  * @date 2026-02-22

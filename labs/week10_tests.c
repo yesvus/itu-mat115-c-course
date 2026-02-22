@@ -1,5 +1,5 @@
 /**
- * @file w10tests.c
+ * @file week10_tests.c
  * @author Yusuf Emir Samsa
  * @brief W10Tests
  * @date 2026-02-22

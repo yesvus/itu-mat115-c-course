@@ -1,5 +1,5 @@
 /**
- * @file w11_lab.c
+ * @file week11_lab1.c
  * @author Yusuf Emir Samsa
  * @brief W11 Lab
  * @date 2026-02-22

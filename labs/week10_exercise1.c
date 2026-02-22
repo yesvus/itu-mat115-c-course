@@ -1,5 +1,5 @@
 /**
- * @file w10exercise1.c
+ * @file week10_exercise1.c
  * @author Yusuf Emir Samsa
  * @brief W10Exercise1
  * @date 2026-02-22
