@@ -2,7 +2,14 @@
 
 This repository contains C code snippets I wrote during my **MAT115E** class at **Istanbul Technical University**.
 
-All code in this repository uploaded to GitHub to help new students.
+All code in this repository is organized and uploaded to GitHub to help new students.
+
+## Repository Structure
+
+- **[`labs/`](./labs/)**: Contains the weekly laboratory assignments and projects.
+- **[`exercises/`](./exercises/)**: Contains practice snippets, homework tasks, and class exercises.
+- **[`exams/`](./exams/)**: Contains any mock exams, midterms, or final practices.
+- **`template.c`**: A boilerplate file for starting new C programs with proper documentation headers.
 
 ## Notes
 
@@ -11,16 +18,16 @@ All code in this repository uploaded to GitHub to help new students.
 
 ## How to Compile and Run
 
-Compile and run one C file (for example, `w3_lab1.c`) with `gcc`.
+Compile and run one C file (for example, `labs/w3_lab1.c`) with `gcc`.
 
 ### macOS
 
-- Compile: `gcc "file.c" -o program`
+- Compile: `gcc "labs/w3_lab1.c" -o program`
 - Run: `./program`
 
 ### Windows (MinGW / MSYS2)
 
-- Compile: `gcc "file.c" -o program.exe`
+- Compile: `gcc "labs\w3_lab1.c" -o program.exe`
 - Run: `program.exe`
 
 ## If `gcc` Is Not Found
