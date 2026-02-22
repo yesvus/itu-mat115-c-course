@@ -7,3 +7,5 @@ a.out
 *.so
 *.dylib
 roll-a-dice
+
+.DS_Store
