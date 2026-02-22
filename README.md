@@ -9,7 +9,6 @@ All code in this repository is organized and uploaded to GitHub to help new stud
 - **[`labs/`](./labs/)**: Contains the weekly laboratory assignments and projects.
 - **[`exercises/`](./exercises/)**: Contains practice snippets, homework tasks, and class exercises.
 - **[`exams/`](./exams/)**: Contains any mock exams, midterms, or final practices.
-- **`template.c`**: A boilerplate file for starting new C programs with proper documentation headers.
 
 ## Notes
 
