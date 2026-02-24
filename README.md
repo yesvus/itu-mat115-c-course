@@ -8,7 +8,7 @@ All code in this repository is organized and uploaded to GitHub to help new stud
 
 - **[`labs/`](./labs/)**: Contains the weekly laboratory assignments and projects.
 - **[`exercises/`](./exercises/)**: Contains practice snippets, homework tasks, and class exercises.
-- **[`exams/`](./exams/)**: Contains any mock exams, midterms, or final practices.
+- **[`exams/`](./exams/)**: Contains any past exams, midterms, or final. (tr: çıkmış sınavlar)
 
 ## Notes
 
