@@ -10,11 +10,6 @@ All code in this repository is organized and uploaded to GitHub to help new stud
 - **[`exercises/`](./exercises/)**: Contains practice snippets, homework tasks, and class exercises.
 - **[`exams/`](./exams/)**: Contains any past exams, midterms, or final. (tr: çıkmış sınavlar)
 
-## Notes
-
-- These files are class exercises and practice snippets.
-- The repository is intended as a learning reference for beginners.
-
 ## How to Compile and Run
 
 Compile and run one C file (for example, `labs/w3_lab1.c`) with `gcc`.
